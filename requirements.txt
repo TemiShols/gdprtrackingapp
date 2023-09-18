@@ -1,0 +1,13 @@
+
+Django==4.2.5
+djangorestframework==3.14.0
+pyhindsight==20230327.0
+pyscript==0.2.5
+pytest==7.4.2
+requests==2.31.0
+dj-database-url
+psycopg2-binary
+python-dotenv
+whitenoise==5.2.0
+djangorestframework-api-key
+
